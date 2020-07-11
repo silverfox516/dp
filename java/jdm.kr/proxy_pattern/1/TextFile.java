@@ -1,0 +1,3 @@
+interface TextFile {
+	String fetch();
+}
